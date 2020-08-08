@@ -6,12 +6,12 @@ package com.company;
  */
 public class DBMock {
     private static Employee[] employees = {
-            new CPrgrammer("Jack0", 2000.0),
+            new CProgrammer("Jack0", 2000.0),
             new JavaProgrammer("Jack6", 4000.0),
             new Tester("Anna", 3000.0),
             new Tester("Alex", 1800.0),
-            new CPrgrammer("Jack1", 2010.0),
-            new CPrgrammer("Jack2", 2020.0),
+            new CProgrammer("Jack1", 2010.0),
+            new CProgrammer("Jack2", 2020.0),
             new JavaProgrammer("Jack3", 2030.0),
             new JavaProgrammer("Jack4", 2040.0),
             new JavaProgrammer("Jack5", 2050.0),
